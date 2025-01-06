@@ -18,3 +18,12 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/adity02/node-ci-cd.git
 cd node-ci-cd
+
+## Install Dependencies
+npm install
+
+### Run the Application Locally (http://localhost:3000)
+npm start 
+
+##Run Tests Locally
+npm test
